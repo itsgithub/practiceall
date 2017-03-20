@@ -1,5 +1,0 @@
-This is line 1
-
-Adding new line to Hello World file
-
-Adding line from AEM2
